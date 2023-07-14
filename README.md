@@ -1,6 +1,6 @@
 " Tic-Tac-Toe "
 
-This is a simple command-line implementation of the classic game Tic Tac Toe written in C#. It allows two players to take turns entering their moves on a 3x3 game board until one player wins or the game ends in a draw.
+This is a classic game Tic Tac Toe written in C#. It allows two players to take turns entering their moves on a 3x3 game board until one player wins or the game ends in a draw.
 
 Features
 Player vs Player: Two human players can play against each other.
